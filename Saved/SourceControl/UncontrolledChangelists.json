@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/Unreal Projects/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
+				"G:/Unreal Projects/GameOverGraft/Content/Blueprints/Player/BP_Controller.uasset",
+				"G:/Unreal Projects/GameOverGraft/Content/Mickael/Lvl_Protype.umap",
+				"G:/Unreal Projects/GameOverGraft/Content/Mickael/Blueprints/Tasks/BP_TaskManager.uasset",
+				"G:/Unreal Projects/GameOverGraft/Content/Mickael/Blueprints/Tasks/BP_Task.uasset",
+				"G:/Unreal Projects/GameOverGraft/Content/Mickael/UI/InWorldUI/WBP_Task_CheckMarks.uasset",
+				"G:/Unreal Projects/GameOverGraft/Content/Mickael/Blueprints/Player/BP_Controller_M.uasset"
+			]
+		}
+	]
+}

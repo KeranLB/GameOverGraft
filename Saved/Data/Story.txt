@@ -1,0 +1,10 @@
+{
+"name":"monaco",
+"SerialNumber":"123456",
+"Status":"Attacked",
+"Dialogue": [
+"First sentence.",
+"Second sentence.",
+"Third sentence."
+]
+}
