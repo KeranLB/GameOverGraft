@@ -58,7 +58,7 @@ bool UFileReader::LoadData(	const FString& LocationName, FDialogueData& OutData)
 		FPaths::FPaths::ProjectContentDir() +
 		TEXT("Data/JsonFiles/") +
 		LocationName +
-		TEXT(".txt");
+		TEXT(".json");
 
 	FString JsonText;
 	if (!FFileHelper::LoadFileToString(JsonText, *FilePath))
