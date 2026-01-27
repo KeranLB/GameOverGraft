@@ -7,7 +7,7 @@
 
 bool UFileReader::FromFileToString(FString FileName, FString& Text)
 {
-	const FString FullPath = FPaths::ProjectSavedDir() + FileName;
+	const FString FullPath = FPaths::ProjectContentDir() + FileName;
 
 	if (!FPaths::FileExists(FullPath))
 	{
@@ -55,8 +55,8 @@ static bool ParseDialogueJson(const FString& JsonString, FDialogueData& OutData)
 bool UFileReader::LoadData(	const FString& LocationName, FDialogueData& OutData)
 {
 	const FString FilePath =
-		FPaths::ProjectSavedDir() +
-		TEXT("Data/") +
+		FPaths::FPaths::ProjectContentDir() +
+		TEXT("Data/JsonFiles/") +
 		LocationName +
 		TEXT(".txt");
 

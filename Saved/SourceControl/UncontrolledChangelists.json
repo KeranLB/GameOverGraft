@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Mickael DCR/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
+				"D:/Mickael DCR/GameOverGraft/Content/Enums/E_TaskP1.uasset",
+				"D:/Mickael DCR/GameOverGraft/Content/Data/JsonFiles/Story.uasset",
+				"D:/Mickael DCR/GameOverGraft/Content/Data/JsonFiles/NewUserDefinedStruct.uasset",
 				"G:/Unreal Projects/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
 				"G:/Unreal Projects/GameOverGraft/Content/Blueprints/Player/BP_Controller.uasset",
 				"G:/Unreal Projects/GameOverGraft/Content/Mickael/Lvl_Protype.umap",
