@@ -32,13 +32,18 @@ static bool ParseDialogueJson(const FString& JsonString, FDialogueData& OutData)
 	}
 
 	// Required fields
-	OutData.Name = JsonObject->GetStringField(TEXT("name"));
+	OutData.Caller = JsonObject->GetStringField(TEXT("Caller"));
+	OutData.CallTarget = JsonObject->GetStringField(TEXT("CallTarget"));
 	OutData.SerialNumber = JsonObject->GetStringField(TEXT("SerialNumber"));
-	OutData.Status = JsonObject->GetStringField(TEXT("Status"));
+	
 
 	// Optional array
 	OutData.Dialogue.Empty();
+	OutData.CampStatuses.Empty();
+	OutData.CampNames.Empty();
 	const TArray<TSharedPtr<FJsonValue>>* DialogueArray;
+	const TArray<TSharedPtr<FJsonValue>>* CampStatusesArray;
+	const TArray<TSharedPtr<FJsonValue>>* CampNamesArray;
 
 	if (JsonObject->TryGetArrayField(TEXT("Dialogue"), DialogueArray))
 	{
@@ -47,17 +52,33 @@ static bool ParseDialogueJson(const FString& JsonString, FDialogueData& OutData)
 			OutData.Dialogue.Add(Value->AsString());
 		}
 	}
+	
+	if (JsonObject->TryGetArrayField(TEXT("CampStatuses"), CampStatusesArray))
+	{
+		for (const TSharedPtr<FJsonValue>& Value : *CampStatusesArray)
+		{
+			OutData.CampStatuses.Add(Value->AsString());
+		}
+	}
 
+	if (JsonObject->TryGetArrayField(TEXT("CampNames"), CampNamesArray))
+	{
+		for (const TSharedPtr<FJsonValue>& Value : *CampNamesArray)
+		{
+			OutData.CampNames.Add(Value->AsString());
+		}
+	}
+	
 	return true;
 }
 
 
-bool UFileReader::LoadData(	const FString& LocationName, FDialogueData& OutData)
+bool UFileReader::LoadData(	const FString& FileName, FDialogueData& OutData)
 {
 	const FString FilePath =
 		FPaths::FPaths::ProjectContentDir() +
 		TEXT("Data/JsonFiles/") +
-		LocationName +
+		FileName +
 		TEXT(".json");
 
 	FString JsonText;
@@ -69,3 +90,4 @@ bool UFileReader::LoadData(	const FString& LocationName, FDialogueData& OutData)
 
 	return ParseDialogueJson(JsonText, OutData);
 }
+

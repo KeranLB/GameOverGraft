@@ -1,10 +1,18 @@
 {
-"name":"monaco",
-"SerialNumber":"123456",
-"Status":"Attacked",
-"Dialogue": [
-"First sentence.",
-"Second sentence.",
-"Third sentence."
-]
+  "Caller":"President",
+  "CallTarget" : "Soldier",
+  "SerialNumber":"123456",
+  "CampStatuses":[
+    "Attacked",
+    "Safe"
+  ],
+  "CampNames":[
+    "Orlean",
+    "Baaaaaat"
+  ],
+  "Dialogue": [
+    "First sentence.",
+    "Second sentence.",
+    "Third sentence."
+  ]
 }

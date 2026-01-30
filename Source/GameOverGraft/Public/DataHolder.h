@@ -9,14 +9,21 @@ struct FDialogueData
 	GENERATED_BODY()
 
 	UPROPERTY(BlueprintReadOnly)
-	FString Name;
+	FString Caller;
 
+	UPROPERTY(BlueprintReadOnly)
+	FString CallTarget;
+	
 	UPROPERTY(BlueprintReadOnly)
 	FString SerialNumber;
 
 	UPROPERTY(BlueprintReadOnly)
-	FString Status;
+	TArray<FString> CampNames;
+	
+	UPROPERTY(BlueprintReadOnly)
+	TArray<FString> CampStatuses;
 
 	UPROPERTY(BlueprintReadOnly)
 	TArray<FString> Dialogue;
+	
 };
