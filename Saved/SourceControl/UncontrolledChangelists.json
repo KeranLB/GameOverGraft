@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Keran/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
+				"D:/Keran/GameOverGraft/Content/Levels/Lvl_BkRoom_J.umap",
+				"D:/Keran/GameOverGraft/Content/UI/FirstPersonUI/WBP_UI_Player_K.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Player/BP_GameMode.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Panels/BP_CallCenterManager.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Panels/BP_ButtonPanel.uasset",
 				"D:/Pas Moi/GameOverGraft/Content/Blueprints/Tasks/BP_Task.uasset",
 				"D:/Pas Moi/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
 				"D:/Pas Moi/GameOverGraft/Content/Levels/Lvl_Protype3C_K.umap",
