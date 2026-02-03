@@ -89,4 +89,4 @@ Build/*/**
 
 # Saved data files (JSON / text)
 Saved/*
-!Saved/Data/
+
