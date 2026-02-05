@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/Levels/Lvl_Protype3C_K.umap",
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/Blueprints/Ia/BP_NPC_Enemy.uasset",
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/Blueprints/Gauge/BP_Gauge.uasset",
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/UI/Gauge/WBP_Gauge.uasset",
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/Blueprints/Ia/BP_ST_Task.uasset",
+				"D:/ProjectUnreal/Keran/GameOverGraft/Content/Blueprints/Ia/ST_ComponentBehavior.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Tasks/BP_Task.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Tasks/BP_DA_Task_Data.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
