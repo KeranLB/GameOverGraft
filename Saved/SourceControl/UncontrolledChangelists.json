@@ -5,7 +5,36 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/GOG/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap"
+				"D:/GOG/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BChair.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BDoor.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/EvasionProt/SM_BEcrou.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/EvasionProt/SM_BEscapeChair.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BEscapeChair.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BFence.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BFloor.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinAngle80LDRH.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinAngle80LHRD.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinAngleLDRH.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinAngleLHRD.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinL.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/BK_test/FBXEXPORTLD/SM_BTable_CoinR.uasset",
+				"D:/GOG/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/IM_GlobeEtat_Attaque.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/M_GlobeEtat_Attaque.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/IM_GlobeEtat_Destroy.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/M_GlobeEtat_Destroy.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/IM_GlobeEtat_Safe.uasset",
+				"D:/GOG/GameOverGraft/Content/Materials/M_GlobePanel/M_GlobeEtat_Safe.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/MapTactic/SM_Camp02.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_Clock.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_Corkboard.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/Desk_Light/SM_Desklight.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_FolderFurniture.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_HornSpeaker.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_RoofClock.uasset",
+				"D:/GOG/GameOverGraft/Content/Assets/Middle_assets/SM_StorageFurniture.uasset"
 			]
 		}
 	]
