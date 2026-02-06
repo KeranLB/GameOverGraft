@@ -1,0 +1,18 @@
+{
+  "Caller":"President",
+  "CallTarget" : "Soldier",
+  "SerialNumber":"123456",
+  "CampStatuses":[
+    "Attacked",
+    "Safe"
+  ],
+  "CampNames":[
+    "Orlean",
+    "Baaaaaat"
+  ],
+  "Dialogue": [
+    "First sentence.",
+    "Second sentence.",
+    "Third sentence."
+  ]
+}
