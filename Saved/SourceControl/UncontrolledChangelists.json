@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Keran/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Gauge/BP_Gauge.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Player/BP_Character_K.uasset",
+				"D:/Keran/GameOverGraft/Content/Levels/Lvl_Protype3C_K.umap",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_Patrol.uasset",
+				"D:/Keran/GameOverGraft/Content/UI/CallCenter/WBP_Caller.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Panels/BP_CallCenterManager.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
+				"D:/Keran/GameOverGraft/Content/Blueprints/Tasks/BP_Task.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
+				"D:/UnrealProjects/GameOverGraft/Content/Assets/Chair/SM_chair_002.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Player/BP_Character_K.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/FirstPersonUI/WBP_Bpm.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Player/BP_Controller.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Tasks/BP_Task.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Tasks/BP_TaskManager.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/T_IconCall_Soldat.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/T_IconCall_ServiceMedical.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/T_IconCall_President.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/T_IconCall_Ministre.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/T_IconCall_Comandant.uasset",
+				"D:/UnrealProjects/GameOverGraft/Content/UI/CallCenter/WBP_Caller.uasset"
+			]
+		}
+	]
+}
