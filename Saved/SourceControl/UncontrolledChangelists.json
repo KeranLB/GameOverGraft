@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_InvestigatePlayer.uasset",
+				"D:/UnrealProject/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_Patrol.uasset",
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/ST_ComponentBehavior.uasset",
+				"D:/UnrealProject/GameOverGraft/Content/UI/FirstPersonUI/WBP_Bpm.uasset",
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Player/BP_Character_K.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
