@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dfdb01b2-6e16-409e-a6fc-b7eb9a79a6f4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOverGraft/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOverGraft/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOverGraft/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.GameOverGraft/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Gauge/BP_Gauge.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Gauge/BP_Gauge.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Blueprints/Player/BP_Character_K.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/Player/BP_Character_K.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Levels/Lvl_Protype3C_Marie.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Levels/Lvl_Protype3C_Marie.umap" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/AutoScreenshot.png" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/AutoScreenshot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Autosaves/PackageRestoreData.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_ES3_1/WorldGridMaterial_25a2c9a2f284e519/Default/DDCKey-Editor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_ES3_1/WorldGridMaterial_25a2c9a2f284e519/Default/DDCKey-Editor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_b019937a1bd5f916/Default/DDCKey-Editor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/ShaderDebugInfo/PCD3D_SM6/WorldGridMaterial_b019937a1bd5f916/Default/DDCKey-Editor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" beforeDir="false" afterPath="$PROJECT_DIR$/Saved/SourceControl/UncontrolledChangelists.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="39QUlPkLnrg7v3Sz7dJdwHX4j9g" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "Proto",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "project.propVCSSupport.Mappings"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dfdb01b2-6e16-409e-a6fc-b7eb9a79a6f4" name="Changes" comment="" />
+      <created>1770627939264</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770627939264</updated>
+    </task>
+    <servers />
+  </component>
+</project>
