@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/FLX/GameOverGraft/Content/Levels/Lvl_Lighting_Test.umap",
+				"D:/FLX/GameOverGraft/Content/Materials/M_GlobePanel/M_Globe.uasset",
+				"D:/FLX/GameOverGraft/Content/Materials/M_Posterize.uasset",
 				"C:/Users/felix/Desktop/KOU_ZHAO/GameOverGraft/Content/Levels/Lvl_Lighting_Test.umap",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
