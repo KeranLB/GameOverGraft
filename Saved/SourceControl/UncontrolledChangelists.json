@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_InvestigatePlayer.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_Patrol.uasset",
@@ -36,6 +37,12 @@
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Menu/BP_MainMenu.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Menu/BP_Options.uasset",
 >>>>>>> Keks
+=======
+				"D:/FLX/GameOverGraft/Content/Levels/Lvl_Lighting_Test.umap",
+				"D:/FLX/GameOverGraft/Content/Materials/M_GlobePanel/M_Globe.uasset",
+				"D:/FLX/GameOverGraft/Content/Materials/M_Posterize.uasset",
+				"C:/Users/felix/Desktop/KOU_ZHAO/GameOverGraft/Content/Levels/Lvl_Lighting_Test.umap",
+>>>>>>> Felix
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
