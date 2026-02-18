@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 <<<<<<< HEAD
+<<<<<<< HEAD
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_InvestigatePlayer.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/Task/BP_ST_Patrol.uasset",
@@ -43,6 +44,22 @@
 				"D:/FLX/GameOverGraft/Content/Materials/M_Posterize.uasset",
 				"C:/Users/felix/Desktop/KOU_ZHAO/GameOverGraft/Content/Levels/Lvl_Lighting_Test.umap",
 >>>>>>> Felix
+=======
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_ConfirmationButton_Skeleton.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_ConfirmationButton_PhysicsAsset.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_ConfirmationButton.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_Lever.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_Lever_PhysicsAsset.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_Lever_Skeleton.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_SymbolButton.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_SymbolButton_PhysicsAsset.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_SymbolButton_Skeleton.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_ButtonBase.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_InstructionMemo.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_Screen.uasset",
+				"C:/Users/j.herzog/Documents/GitHub/GameOverGraft/Content/Assets/ButtonPannelV2/SM_ButtonPanel_Slider.uasset",
+>>>>>>> Julien
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
