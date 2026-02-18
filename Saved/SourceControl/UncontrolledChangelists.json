@@ -11,6 +11,7 @@
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Ia/ST_ComponentBehavior.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/UI/FirstPersonUI/WBP_Bpm.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Player/BP_Character_K.uasset",
+<<<<<<< HEAD
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Gauge/BP_Gauge.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Panels/BP_ButtonPanel.uasset",
 				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
@@ -31,6 +32,10 @@
 				"D:/Mickael DCR/GameOverGraft/Content/Textures/ButtonsPanelScreen/T_Slider_3.uasset",
 				"D:/Mickael DCR/GameOverGraft/Content/Textures/ButtonsPanelScreen/T_Slider_4.uasset",
 				"D:/Mickael DCR/GameOverGraft/Content/Textures/ButtonsPanelScreen/T_Slider_5.uasset",
+=======
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Menu/BP_MainMenu.uasset",
+				"D:/UnrealProject/GameOverGraft/Content/Blueprints/Menu/BP_Options.uasset",
+>>>>>>> Keks
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_MapTactics.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Blueprints/Panels/BP_CallCenter.uasset",
 				"D:/UnrealProjects/GameOverGraft/Content/Levels/Lvl_Protype3C_Marie.umap",
