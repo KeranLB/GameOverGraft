@@ -28,10 +28,6 @@
 		{
 			"Name": "GameplayBehaviors",
 			"Enabled": true
-		},
-		{
-			"Name": "FMODStudio",
-			"Enabled": false
 		}
 	]
 }
