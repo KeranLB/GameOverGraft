@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Projet/Unreal/GameOverGraft/Content/Blueprints/Menu/BP_PlayScreen.uasset",
+				"D:/Projet/Unreal/GameOverGraft/Content/Levels/Lvl_Menu.umap",
+				"D:/Projet/Unreal/GameOverGraft/Content/Blueprints/Menu/BP_ControllerMenu.uasset",
+				"D:/Projet/Unreal/GameOverGraft/Content/Blueprints/Menu/BP_Options.uasset",
 				"C:/Users/f.hautin/Documents/GitHub/GameOverGraft/Content/Assets/Characters/Enemy/SKEL_Enemy_001.uasset",
 				"C:/Users/f.hautin/Documents/GitHub/GameOverGraft/Content/Assets/Characters/Enemy/SK_Enemy_001.uasset",
 				"C:/Users/f.hautin/Documents/GitHub/GameOverGraft/Content/Assets/Characters/Enemy/PHYS_Enemy_001.uasset",
