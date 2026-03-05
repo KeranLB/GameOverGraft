@@ -32,6 +32,10 @@
 		{
 			"Name": "FMODStudio",
 			"Enabled": false
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
 		}
 	]
 }
